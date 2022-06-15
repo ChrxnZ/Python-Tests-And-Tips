@@ -1,0 +1,5 @@
+*.python liguist-detectable=true
+*.lua liguist-detectable=false
+*.csharp liguist-detectable=false
+*.c liguist-detectable=false
+*.ruby liguist-detectable=false
